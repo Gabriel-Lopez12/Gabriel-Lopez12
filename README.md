@@ -86,4 +86,4 @@ Linux server administration · REST API design · Jira · Scrum / Agile
 
 ## Connect
 
-[LinkedIn](tu-link) · [Email](mailto:tu@email.com)
+[LinkedIn](https://www.linkedin.com/in/gabriel-tlapalamatl-l%C3%B3pez/) · [Email](mailto:tlapalamatlgabriel.97@email.com) · [Portfolio](https://gabriel-lopez12.github.io/Portfolio/)
