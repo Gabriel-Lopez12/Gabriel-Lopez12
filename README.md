@@ -41,11 +41,11 @@ Linux server administration · REST API design · Jira · Scrum / Agile
 
 ## Featured projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [Project 1](link) | Scalable REST API with clean architecture | NestJS · PostgreSQL |
-| [Project 2](link) | Multi-tenant platform for HR management | Laravel · MySQL |
-| [Project 3](link) | Multinational web app with modular design | React · Node.js |
+| Description | Stack |
+|---|---|
+| Scalable REST API with clean architecture | NestJS · PostgreSQL |
+| Multi-tenant platform for HR management | Laravel · MySQL |
+| Multinational web app with modular design | React · Node.js |
 
 ---
 
